@@ -68,6 +68,27 @@ The script identifies the highest-selling product by quantity, the product gener
 
 See `insights.md` for the calculated findings and recommendations.
 
+
+## Key Findings
+
+Based on the sample sales dataset:
+
+- Total revenue was ₹3,29,900 across 10 unique orders.
+- The average order value was ₹32,990.
+- Mouse had the highest sales quantity, with 23 units sold.
+- Laptop generated the highest product revenue, at ₹2,50,000.
+- March 2026 recorded the highest monthly revenue, at ₹1,44,800.
+- Electronics generated ₹3,10,000 in revenue, exceeding Accessories.
+
+## Business Recommendations
+
+1. Monitor laptop inventory and evaluate its contribution to revenue.
+2. Maintain appropriate mouse stock based on its sales volume.
+3. Investigate the factors behind March's higher revenue.
+4. Analyze product costs before drawing conclusions about profitability.
+5. Collect more months of sales data to identify reliable trends.
+
+
 ## Dataset Limitations
 This project uses a small sample dataset covering three months. Revenue does not represent profit because product costs and operating expenses are not included. Results are illustrative and should not be treated as long-term business trends.
 
